@@ -64,3 +64,4 @@ jobs:
           # Note the updated path including 'android/'
           file: android/app/build/outputs/apk/debug/app-debug.apk
           releaseNotes: ${{ inputs.release_notes }}
+          
